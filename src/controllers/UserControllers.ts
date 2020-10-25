@@ -94,7 +94,7 @@ export class UserController {
                 })
 
             } else {
-                throw Error('User Does not Exist')
+                throw Error('User Does not Exist');
             }
 
         }
