@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.6.1",
     "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.10",
     "node": "^15.0.1",
     "nodemailer": "^6.4.14",
